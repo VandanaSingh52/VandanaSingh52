@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vandana Singh</h1>
 <h3 align="center">Freshman at NIT Hamirpur</h3>
 
-- 🌱 I’m currently learning **Python and C programming language**
-
-- 💫 Things i like **Photography, video editing, music, visiting new places, dancing.**
+- 🌱 I’m currently learning **Python, C programming language and Django**
 
 - 📫 How to reach me **vandanaaspi353@gmail.com**
 
