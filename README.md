@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vandana Singh</h1>
 <h3 align="center">Sophomore at NIT Hamirpur</h3>
 
-- 🌱 I’m currently learning **Game Development**
 
 - 📫 How to reach me **vandanaaspi353@gmail.com**
 
