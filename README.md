@@ -3,8 +3,3 @@
 
 
 - 📫 How to reach me **vandana.singh35301@gmail.com**
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandanasingh52&show_icons=true&locale=en" alt="vandanasingh52" /></p>
